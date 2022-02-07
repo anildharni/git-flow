@@ -12,4 +12,8 @@ Snitch was better!
 
 How are you professor
 
+<<<<<<< HEAD
 OIOS Is coming!
+=======
+DIA IS GOING!
+>>>>>>> 3fd6f72dc4e543a3ecdb0aead0610cd9be41b15f
